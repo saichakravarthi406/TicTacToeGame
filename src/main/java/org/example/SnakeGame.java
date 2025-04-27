@@ -2,7 +2,7 @@ package org.example;
 
 import javax.swing.JFrame;
 
-public class snakeGame {
+public class SnakeGame {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
         GamePanel panel = new GamePanel();
